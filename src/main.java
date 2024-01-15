@@ -14,7 +14,8 @@ public class main {
     
     public static void main (String args[]) {
         // TypeIntegerAndTypeString.run();
-        TypeInference.run();
+        // TypeInference.run();
+        SpecialCharacters.run();
     }
     
 }
